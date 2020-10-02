@@ -1,2 +1,2 @@
 # KeyboardMonitoring
-Monitor your keyboard inputs daily by this app!
+Monitor your keyboard inputs by this app daily!
