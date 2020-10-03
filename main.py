@@ -34,7 +34,6 @@ def changekey(key):
 def onpress(key):
     savekey(str(key))
     changekey(key)
-    print(key_save)
     savejson()
 
 def savejson():
